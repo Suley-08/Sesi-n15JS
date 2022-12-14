@@ -1,0 +1,5 @@
+  <!-- CRUD => HTTP
+READ => GET
+CREATE => POST
+UPDATE  => PUT
+DELETE => DELETE -->
